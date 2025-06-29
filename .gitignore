@@ -1,0 +1,7 @@
+AIenv
+server/booking_agent.py
+server/token.json
+server/credentials.json
+server/__pycache__
+server/.env
+client/.env
