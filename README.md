@@ -117,6 +117,10 @@ TOKEN_FILE=token.json                     # OAuth token storage
 - ✅ RESTful API with FastAPI
 - ✅ Comprehensive documentation
 
+### Demo
+
+https://calendar-agent-tailortalk.streamlit.app/
+
 
 ## 🙋‍♂️ Support
 
