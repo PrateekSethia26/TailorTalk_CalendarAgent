@@ -1,4 +1,4 @@
-# 🗓️ AI Calendar Assistant API
+# 🗓️ TailorTalk Calendar Agent
 
 > A powerful, modular FastAPI application that brings AI-powered natural language processing to Google Calendar management. Schedule meetings, check availability, and manage your calendar using simple conversational commands.
 
