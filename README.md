@@ -75,6 +75,7 @@ GOOGLE_API_KEY=your_google_ai_api_key_here
 4. Download the JSON file as `credentials.json`
 5. Also set the scope to google calendar
 5. Place it in your project root directory
+```
 
 ### 4. Launch the Application
 
